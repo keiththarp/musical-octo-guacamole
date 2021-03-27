@@ -1,2 +1,2 @@
 # musical-octo-guacamole
-Getting keys set up
+SSH Keys are working on the new computer!
